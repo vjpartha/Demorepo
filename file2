@@ -1,3 +1,7 @@
 this is file2.
 updated by dev2
+<<<<<<< HEAD
 issue check 2
+=======
+issue check1
+>>>>>>> 97ffefbe7d5858e52e38d932bb87e4b4e9fd2d50
